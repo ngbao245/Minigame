@@ -1,0 +1,29 @@
+In [43]: 'paper'.upper()                                                                                        
+Out[43]: 'PAPER'                                                                                                
+                                                                                                                
+In [44]: # function                                                                                             
+                                                                                                                                                                                                                                
+In [46]: commands = ('rock', 'paper', 'scissors')                                                               
+                                                                                                                
+In [47]: commands                                                                                               
+Out[47]: ('rock', 'paper', 'scissors')                                                                          
+                                                                                                                
+In [48]: # tuple                                                                                                
+                                                                                                                
+In [49]: cmd = 'rock'                                                                                           
+                                                                                                                
+In [50]: f'player chooses {cmd}'                                                                                
+Out[50]: 'player chooses rock'                                                                                 
+                                                                                                               
+In [51]: # f string                                                                                            
+                                                                                                               
+In [52]: dictionary = {'hsA': 10, 'hsB': 8, 'hsC': 0}                                                          
+                                                                                                               
+In [53]: # dictionary                                                                                          
+                                                                                                               
+In [54]: report = {'hsA': 10, 'hsB': 8, 'hsC': 0}                                                              
+                                                                                                               
+In [55]: report['hsA']                                                                                         
+Out[55]: 10                                                                                                    
+                                                                                                               
+In [56]: 
